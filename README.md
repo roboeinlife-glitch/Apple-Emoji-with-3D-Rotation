@@ -40,7 +40,7 @@
 
 ## 🤖 Trợ lý AI
 
-Chương trình này được phát triển với sự hỗ trợ của 
+💡 *Phát triển với sự hỗ trợ của DeepSeek AI Assistant*
 
 <div align="center">
 
@@ -50,6 +50,6 @@ Chương trình này được phát triển với sự hỗ trợ của
 
 </div>
 
-💡 *Phát triển với sự hỗ trợ của DeepSeek AI Assistant*
+
 
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
